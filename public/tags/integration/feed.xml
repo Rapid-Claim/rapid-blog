@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>RapidClaims Blog</title>
+      <link>https://tailwind-nextjs-starter-blog.vercel.app/blog</link>
+      <description>The technology behind the fastest growing AI first RCM company.</description>
+      <language>en-us</language>
+      <managingEditor>sales@rapidclaims.ai (Tails Azimuth)</managingEditor>
+      <webMaster>sales@rapidclaims.ai (Tails Azimuth)</webMaster>
+      <lastBuildDate>Sun, 05 Jan 2025 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://tailwind-nextjs-starter-blog.vercel.app/tags/integration/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/new-features-in-v1</guid>
+    <title>Navigating the Maze: A Comprehensive Guide to EHR Integration Approaches</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/new-features-in-v1</link>
+    <description>An in-depth analysis of different Electronic Health Record (EHR) integration methodologies, comparing FHIR, HL7, and API-based approaches. Explore real-world implementation challenges, compliance considerations, and best practices for seamless healthcare data interoperability.</description>
+    <pubDate>Sun, 05 Jan 2025 00:00:00 GMT</pubDate>
+    <author>sales@rapidclaims.ai (Tails Azimuth)</author>
+    <category>healthcare</category><category>integration</category><category>ehr</category><category>interoperability</category>
+  </item>
+
+    </channel>
+  </rss>

@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>RapidClaims Blog</title>
+      <link>https://tailwind-nextjs-starter-blog.vercel.app/blog</link>
+      <description>The technology behind the fastest growing AI first RCM company.</description>
+      <language>en-us</language>
+      <managingEditor>sales@rapidclaims.ai (Tails Azimuth)</managingEditor>
+      <webMaster>sales@rapidclaims.ai (Tails Azimuth)</webMaster>
+      <lastBuildDate>Fri, 10 Jan 2025 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://tailwind-nextjs-starter-blog.vercel.app/tags/infrastructure/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/release-of-tailwind-nextjs-starter-blog-v2.0</guid>
+    <title>The Art of Orchestrating Giants: A Deep Dive into LLM Scaling &amp; Scheduling</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/release-of-tailwind-nextjs-starter-blog-v2.0</link>
+    <description>A comprehensive exploration of large language model deployment strategies, focusing on efficient resource allocation, parallel processing techniques, and scheduling optimizations to maximize performance while minimizing computational costs. Learn key architectural decisions and trade-offs in scaling LLM operations.</description>
+    <pubDate>Fri, 10 Jan 2025 00:00:00 GMT</pubDate>
+    <author>sales@rapidclaims.ai (Tails Azimuth)</author>
+    <category>machine-learning</category><category>llm</category><category>infrastructure</category><category>optimization</category>
+  </item>
+
+    </channel>
+  </rss>
