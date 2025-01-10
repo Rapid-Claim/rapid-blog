@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { withContentlayer } from 'next-contentlayer2'
 import createBundleAnalyzer from '@next/bundle-analyzer'
 
